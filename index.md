@@ -1,22 +1,15 @@
 ---
 layout: home
-title: CollabStack
----
-
-# 🚀 CollabStack
-
-Engineering the Control Plane of Collaboration Systems
-
 ---
 
 ## 📘 Latest Posts
 
+<ul>
 {% for post in site.posts %}
-### [{{ post.title }}]({{ post.url }})
-
-- Date: {{ post.date | date: "%B %d, %Y" }}
-- Categories: {{ post.categories | join: ", " }}
-
----
+  <li>
+    <a href="{{ post.url }}">{{ post.title }}</a><br>
+    <small>{{ post.date | date: "%B %d, %Y" }}</small>
+  </li>
 {% endfor %}
+</ul>
 
