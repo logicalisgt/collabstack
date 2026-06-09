@@ -4,4 +4,6 @@ description: Deep technical insights into Cisco Collaboration & Contact Center
 theme: minima
 
 markdown: kramdown
-``
+
+baseurl: "/collabstack"
+url: "https://logicalisgt.github.io"
