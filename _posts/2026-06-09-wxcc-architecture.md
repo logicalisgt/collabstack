@@ -38,7 +38,7 @@ Webex Contact Center is not a legacy system moved to the cloud—it is built **c
 ## 2. The Three-Layer Voice Architecture
 
 
-![Webex Contact Center Architecture](/assets/diagrams/WXCC-Architecture.png)
+![WXCC Architecture]({{ site.baseurl }}/assets/diagrams/wxcc-architecture.png)
 
 *Figure 1: Three-layer architecture of Webex Contact Center (Application, Media, Voice Edge)*
 
