@@ -2,7 +2,7 @@
 layout: post
 title: "101s of Webex Contact Center Architecture"
 date: 2026-06-09
-categories: [Webex Contact Center, Architecture]
+categories: [webex-contact-center, architecture]
 ---
 
 ## Introduction
